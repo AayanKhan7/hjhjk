@@ -1,0 +1,10 @@
+{
+  "description": "Manage college events, venues, and resources with role-based workflows for coordinators, faculty, HODs, and admins in a clean, responsive platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
